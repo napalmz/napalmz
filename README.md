@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @napalmz
-- 👀 I’m interested in tecnoloty, motorsports and food
+- 👀 I’m interested in technology, motorsports and food
 - 🌱 I’m currently learning containerization of applications
 <?-- - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... --->
